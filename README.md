@@ -1,2 +1,3 @@
-# OOP_project
-Object oriented programming project (version C++)
+# Plants and animals world game
+
+Project created for the need of Object programming subject during studies.
